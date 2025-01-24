@@ -1,12 +1,13 @@
-# Cytometric Data Analysis with Machine Learning
+# Data Scientist
 
 ### About Me
 
-I am a PhD student in Machine Learning / Statistics at University Paris-Saclay, affiliated with the Institut de Mathématiques d’Orsay and part of the Datashape team at INRIA. My research is conducted under the supervision of Gilles Blanchard and Marc Glisse, and in collaboration with Metafora, a biotechnology company based at the Cochin Hospital.
+I'm a Data Scientist at [Metafora Biosystems](https://www.metafora-biosystems.com/) biotechnology company based at the Cochin Hospital (Paris 14), working on [METAflow](https://www.metafora-biosystems.com/metaflow/) a novel AI-powered tool for flow cytometry analysis.  
+Former PhD student in Machine Learning / Statistics at University Paris-Saclay, affiliated with the Institut de Mathématiques d’Orsay and part of the Datashape team at INRIA, under the supervision of Gilles Blanchard and Marc Glisse.
 
 ### Thesis Overview
 
-My thesis focuses on the comparison of cytometric datasets, particularly in the context of Metafora's software, Metaflow. Metaflow enables the automatic analysis of flow cytometry data. My work involves leveraging machine learning models to transfer analysis from one sample to a new, unanalyzed one. This process relies on Reproducing Kernel Hilbert space to embed and store high-dimensional features in Euclidean space. The goal is twofold: estimating the proportions of each population in a new sample and automatically naming the clusters obtained by the software.
+My thesis focused on the comparison of cytometric datasets, particularly in the context of Metafora's software, Metaflow. Metaflow enables the automatic analysis of flow cytometry data. My work involves leveraging machine learning models to transfer analysis from one sample to a new, unanalyzed one. This process relies on Reproducing Kernel Hilbert space to embed and store high-dimensional features in Euclidean space. The goal is twofold: estimating the proportions of each population in a new sample and automatically naming the clusters obtained by the software.
 
 ### Research Interests
 
