@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/bastien-dussap-4191281b8)
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **ML Engineer / Data Scientist** at [Metafora Biosystems](https://www.metafora-biosystems.com/), a biotechnology company based at the Cochin Hospital (Paris 14). I work on [METAflow](https://www.metafora-biosystems.com/metaflow/), a novel AI-powered tool for flow cytometry analysis.
 
@@ -17,7 +17,7 @@ I'm a **ML Engineer / Data Scientist** at [Metafora Biosystems](https://www.meta
 
 ---
 
-## 🎓 PhD Research
+## PhD Research
 
 ### Thesis: *A Unified Framework for Label Shift Quantification*
 
@@ -30,30 +30,31 @@ My doctoral research focused on **quantification learning** applied to cytometri
 - Built frameworks to estimate population proportions in new samples
 
 
-**[📄 Read my thesis](https://theses.fr/s357776)**
+**[Read my thesis](https://theses.fr/s357776)**
 
 ---
 
-## 🏆 Publications & Recognition
+## Publications & Recognition
 
-### Best Paper Award 🏅
+### Best Paper Award 
 **"Label Shift Quantification with Robust Guarantees via Distribution Feature Matching"**  
 *with G. Blanchard and B.-E. Chérief-Abdellatif*
 
-- 🏆 **Best Student Paper Award** - Research Track at ECML/PKDD 2023
-- 📝 [ArXiv preprint](https://arxiv.org/abs/2306.04376)
-- 📚 [Conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_2)
+- **Best Student Paper Award** - Research Track at ECML/PKDD 2023
+- [ArXiv preprint](https://arxiv.org/abs/2306.04376)
+- [Conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_2)
 
 **Abstract:** We propose a unified framework based on distribution feature matching that recovers estimators from both classification-based and statistical mixture modeling approaches to quantification learning. We provide robust theoretical guarantees under label shift and investigate misspecification scenarios.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Proficient-092E20?logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
 
 ### ML & Data Science
 - **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib
@@ -65,9 +66,14 @@ My doctoral research focused on **quantification learning** applied to cytometri
 - **Documentation:** LaTeX, Zotero, Markdown
 - **OS:** Linux, Windows (WSL)
 
+### Currently Learning
+- AWS Machine Learning Engineer certification ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?logo=amazon-aws)
+- Docker & Kubernetes for ML deployment
+- Advanced MLOps patterns
+
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - **Machine Learning:** Kernel methods, transfer learning, statistical learning theory
 - **Label Shift & Quantification Learning:** Distribution matching, robust estimation
@@ -77,7 +83,7 @@ My doctoral research focused on **quantification learning** applied to cytometri
 
 ---
 
-## 🎤 Selected Talks
+## Selected Talks
 
 ### Conference Presentations
 - **ECML/PKDD 2023** - Turin, Italy  
@@ -92,7 +98,7 @@ My doctoral research focused on **quantification learning** applied to cytometri
 
 ---
 
-## 📚 Teaching & Service
+## Teaching & Service
 
 ### Seminar Organization
 Co-organizer of the **Master's seminar in Statistics and Machine Learning** at Université Paris-Saclay (2022-2024)
@@ -103,15 +109,15 @@ Co-organizer of the **Master's seminar in Statistics and Machine Learning** at U
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/bastien-dussap-4191281b8)
-- 🐦 [Twitter](https://twitter.com/BastienDussap)
-- 🌍 [Personal Website](https://bastiendussap.github.io)
-- 📧 bastiendussapapb@gmail.com
+- [LinkedIn](https://linkedin.com/in/bastien-dussap-4191281b8)
+- [Twitter](https://twitter.com/BastienDussap)
+- [Personal Website](https://bastiendussap.github.io)
+- bastiendussapapb@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastienDussap&show_icons=true&theme=radical)
