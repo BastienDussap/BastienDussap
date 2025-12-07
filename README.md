@@ -9,7 +9,7 @@ I'm a **ML Engineer / Data Scientist** at [Metafora Biosystems](https://www.meta
 **What I do:**
 - Develop machine learning algorithms and data processing pipelines in Python for cytometry analysis
 - Build and maintain production-ready REST APIs using Django framework
-- Design and deploy ML models following ISO 62304 standards for medical device software
+- Design and deploy ML models on Google Cloud Platform (GCP), following ISO 62304 standards for medical device software
 - Collaborate directly with users to gather feedback and translate requirements into actionable development tickets
 - Participate in Agile/Scrum workflows, including sprint planning and backlog management
 
@@ -53,12 +53,14 @@ My doctoral research focused on **quantification learning** applied to cytometri
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Proficient-092E20?logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### ML & Data Science
 - **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib
 - **MLOps:** Git, Docker basics, REST API development
+- **Cloud:** Google Cloud Platform (GCP) - Compute Engine, Cloud Storage
 - **Methodologies:** Agile/Scrum, ISO 62304 (medical device software)
 
 ### Tools & Platforms
