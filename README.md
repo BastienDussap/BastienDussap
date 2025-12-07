@@ -17,6 +17,34 @@ I'm a **ML Engineer / Data Scientist** at [Metafora Biosystems](https://www.meta
 
 ---
 
+## Technical Skills
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Proficient-092E20?logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### ML & Data Science
+- **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib
+- **MLOps:** Git, Docker basics, REST API development
+- **Cloud:** Google Cloud Platform (GCP) - Compute Engine, Cloud Storage
+- **Methodologies:** Agile/Scrum, ISO 62304 (medical device software)
+
+### Tools & Platforms
+- **Version Control:** Git
+- **Documentation:** LaTeX, Zotero, Markdown
+- **OS:** Linux, Windows (WSL)
+- **AI tools:** Claude, Copilot
+
+### Currently Learning
+- AWS Machine Learning Engineer certification ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?logo=amazon-aws)
+- Docker & Kubernetes for ML deployment
+- Advanced MLOps patterns
+
+---
+
 ## PhD Research
 
 ### Thesis: *A Unified Framework for Label Shift Quantification*
@@ -45,34 +73,6 @@ My doctoral research focused on **quantification learning** applied to cytometri
 - [Conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_2)
 
 **Abstract:** We propose a unified framework based on distribution feature matching that recovers estimators from both classification-based and statistical mixture modeling approaches to quantification learning. We provide robust theoretical guarantees under label shift and investigate misspecification scenarios.
-
----
-
-## Technical Skills
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Proficient-092E20?logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### ML & Data Science
-- **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib
-- **MLOps:** Git, Docker basics, REST API development
-- **Cloud:** Google Cloud Platform (GCP) - Compute Engine, Cloud Storage
-- **Methodologies:** Agile/Scrum, ISO 62304 (medical device software)
-
-### Tools & Platforms
-- **Version Control:** Git
-- **Documentation:** LaTeX, Zotero, Markdown
-- **OS:** Linux, Windows (WSL)
-- **AI tools:** Claude, Copilot
-
-### Currently Learning
-- AWS Machine Learning Engineer certification ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?logo=amazon-aws)
-- Docker & Kubernetes for ML deployment
-- Advanced MLOps patterns
 
 ---
 
