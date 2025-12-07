@@ -53,7 +53,7 @@ My doctoral research focused on **quantification learning** applied to cytometri
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Proficient-092E20?logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
 
 ### ML & Data Science
@@ -65,6 +65,7 @@ My doctoral research focused on **quantification learning** applied to cytometri
 - **Version Control:** Git
 - **Documentation:** LaTeX, Zotero, Markdown
 - **OS:** Linux, Windows (WSL)
+- **AI tools:** Claude, Copilot
 
 ### Currently Learning
 - AWS Machine Learning Engineer certification ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?logo=amazon-aws)
@@ -116,8 +117,3 @@ Co-organizer of the **Master's seminar in Statistics and Machine Learning** at U
 - [Personal Website](https://bastiendussap.github.io)
 - bastiendussapapb@gmail.com
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastienDussap&show_icons=true&theme=radical)
