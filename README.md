@@ -1,6 +1,6 @@
 # ML Engineer / Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/bastien-dussap-4191281b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bastien-dussap-phd-4191281b8/)
 
 ## About Me
 
